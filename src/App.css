@@ -58,9 +58,12 @@ font-size: 24px;
 font-weight: bolder;
 line-height: 1.5;
 color: #111111;
-
+cursor: pointer;
 }
 
+.heading:hover{
+color: #F4D04E;
+}
 .explains{
 padding-bottom: 24px;
 font-size: 16px;
